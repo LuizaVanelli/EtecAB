@@ -8,6 +8,7 @@ namespace EtecAB
         {
            Console.ForegroundColor = ConsoleColor.Cyan;
            Console.WriteLine("Etec Adolpho Berezin");
+           Console.ResetColor(); 
         }
     }
 }
